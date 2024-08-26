@@ -1,0 +1,1 @@
+# Part-2-Azure-Cloud-Detection-w-Azure-Sentinel
